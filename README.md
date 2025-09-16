@@ -1,6 +1,12 @@
 # RovoCMS
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Built with Bun](https://img.shields.io/badge/Built%20with-Bun-black?logo=bun&logoColor=white)](https://bun.sh)
+[![Database: SQLite](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rovocms/rovocms)
+
 ### **Move fast. Edit safe.**
+
 
 The CMS that doesn't get in your way. Built for agencies. Safe for clients.
 

@@ -37,6 +37,12 @@ CLAUDE.md
 *.db
 *.db-shm
 *.db-wal
+_archive
+
+#AI Tooling
 .claude
 CLAUDE.md
-_archive
+AGENTS.md
+AGENTS/
+repomix.config.json
+repo-output.txt
