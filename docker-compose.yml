@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  rovocms:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - cms_data:/data
+    environment:
+      - PORT=3000
+    restart: unless-stopped
+
+volumes:
+  cms_data:

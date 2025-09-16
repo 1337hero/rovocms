@@ -1,0 +1,42 @@
+#dependencies
+node_modules/
+
+#production
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+#cache
+.eslintcache
+
+# do not commit any .env files to git
+.env
+.env.local
+
+# Misc
+docs
+bun.lockb
+.DS_Store
+._*
+.vscode/*
+!.vscode/extensions.json
+.idea
+.claude
+CLAUDE.md
+.DS_Store
+.Spotlight-V100
+.Trashes
+*.db
+*.db-shm
+*.db-wal
+.claude
+CLAUDE.md
+_archive
